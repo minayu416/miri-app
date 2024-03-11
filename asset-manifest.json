@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/miri-app/static/css/main.4b3aa0ad.css",
-    "main.js": "/miri-app/static/js/main.2b419684.js",
+    "main.css": "/miri-app/static/css/main.d8c78798.css",
+    "main.js": "/miri-app/static/js/main.7308b27e.js",
     "static/js/787.b3bb357e.chunk.js": "/miri-app/static/js/787.b3bb357e.chunk.js",
     "static/media/32.jpg": "/miri-app/static/media/32.930ff8f2ed8f6d20e7dc.jpg",
     "static/media/34.jpg": "/miri-app/static/media/34.20d8e480599253d628d0.jpg",
@@ -102,12 +102,12 @@
     "static/media/slick.woff": "/miri-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/miri-app/index.html",
     "static/media/rune.svg": "/miri-app/static/media/rune.62a0976aef75c211095d942d054f4a7f.svg",
-    "main.4b3aa0ad.css.map": "/miri-app/static/css/main.4b3aa0ad.css.map",
-    "main.2b419684.js.map": "/miri-app/static/js/main.2b419684.js.map",
+    "main.d8c78798.css.map": "/miri-app/static/css/main.d8c78798.css.map",
+    "main.7308b27e.js.map": "/miri-app/static/js/main.7308b27e.js.map",
     "787.b3bb357e.chunk.js.map": "/miri-app/static/js/787.b3bb357e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b3aa0ad.css",
-    "static/js/main.2b419684.js"
+    "static/css/main.d8c78798.css",
+    "static/js/main.7308b27e.js"
   ]
 }
